@@ -1,0 +1,10 @@
+C:\Users\juanb\source\repos\911\911\obj\Debug\911.csproj.AssemblyReference.cache
+C:\Users\juanb\source\repos\911\911\obj\Debug\_911.Form1.resources
+C:\Users\juanb\source\repos\911\911\obj\Debug\_911.Properties.Resources.resources
+C:\Users\juanb\source\repos\911\911\obj\Debug\911.csproj.GenerateResource.cache
+C:\Users\juanb\source\repos\911\911\obj\Debug\911.csproj.CoreCompileInputs.cache
+C:\Users\juanb\source\repos\911\911\bin\Debug\911.exe.config
+C:\Users\juanb\source\repos\911\911\bin\Debug\911.exe
+C:\Users\juanb\source\repos\911\911\bin\Debug\911.pdb
+C:\Users\juanb\source\repos\911\911\obj\Debug\911.exe
+C:\Users\juanb\source\repos\911\911\obj\Debug\911.pdb
