@@ -63,6 +63,16 @@ namespace _911.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Afganistas {
+            get {
+                object obj = ResourceManager.GetObject("Afganistas", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Avion {
             get {
                 object obj = ResourceManager.GetObject("Avion", resourceCulture);

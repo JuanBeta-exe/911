@@ -84,6 +84,7 @@
     <None Include="Resources\Torres Gemelas.png" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\Afganistas.jpeg" />
     <Content Include="Resources\Avion.png" />
     <Content Include="Resources\Osama.png" />
   </ItemGroup>
